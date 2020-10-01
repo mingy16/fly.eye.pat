@@ -1,6 +1,10 @@
 # fly.eye.pat
 An automated images analysis pipeline implemented in R scripts which quantifies the ommatidia regularity pattern for each fly eye image.
 
+![pipeline overview](pipeline.overview-1.jpg)
+![pipeline overview](pipeline.overview-2.jpg)
+
+
 ### 1. organize images, distribute them into different DGRP lines folders
 
 image name rule: GroupXX.dayXX.R32_XX_XX.jpg
