@@ -1,0 +1,32 @@
+
+Attaching package: ‘EBImage’
+
+
+Attaching package: ‘EBImage’
+
+The following objects are masked from ‘package:raster’:
+
+    flip, rotate
+
+The following objects are masked from ‘package:raster’:
+
+    flip, rotate
+
+check dir:  check dir:  ../lines/RAL-21 ; dirout RAL-21 
+../lines/RAL-48 ; dirout RAL-48 
+[1][1] "-Group27.day28.R32_48_1.jpg" "-Group27.day28.R32_48_2.jpg"
+[3] "-Group27.day28.R32_21_1.jpg" "-Group27.day28.R32_48_3.jpg"
+ "-Group27.day28.R32_21_2.jpg"
+[3] "-Group27.day28.R32_21_3.jpg"
+640 480 3 
+640 480 3 
+Number of omma= 54 
+Number of omma= 68 
+640 480 3 
+640 480 3 
+Number of omma= 95 
+Number of omma= 42 
+640 480 3 
+640 480 3 
+Number of omma= 65 
+Number of omma= 75 

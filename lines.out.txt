@@ -1,0 +1,27 @@
+human 
+here2 21,./raw-Group-27-Images//Group27.day28.R32_21_1.jpg
+human 
+here2 21,./raw-Group-27-Images//Group27.day28.R32_21_2.jpg
+human 
+here2 21,./raw-Group-27-Images//Group27.day28.R32_21_3.jpg
+human 
+here2 48,./raw-Group-27-Images//Group27.day28.R32_48_1.jpg
+human 
+here2 48,./raw-Group-27-Images//Group27.day28.R32_48_2.jpg
+human 
+here2 48,./raw-Group-27-Images//Group27.day28.R32_48_3.jpg
+#all images have Ral line number!
+RAL	21	3
+		./raw-Group-27-Images//Group27.day28.R32_21_1.jpg
+check -Group27.day28.R32_21_1.jpg
+		./raw-Group-27-Images//Group27.day28.R32_21_2.jpg
+check -Group27.day28.R32_21_2.jpg
+		./raw-Group-27-Images//Group27.day28.R32_21_3.jpg
+check -Group27.day28.R32_21_3.jpg
+RAL	48	3
+		./raw-Group-27-Images//Group27.day28.R32_48_1.jpg
+check -Group27.day28.R32_48_1.jpg
+		./raw-Group-27-Images//Group27.day28.R32_48_2.jpg
+check -Group27.day28.R32_48_2.jpg
+		./raw-Group-27-Images//Group27.day28.R32_48_3.jpg
+check -Group27.day28.R32_48_3.jpg
